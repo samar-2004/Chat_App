@@ -1,0 +1,23 @@
+# Ignore node_modules at any level
+**/node_modules/
+
+# Environment files
+.env
+.env.*
+
+# Build output
+dist/
+build/
+.next/
+.vite/
+
+# Logs
+*.log
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
